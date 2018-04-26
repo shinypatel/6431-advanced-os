@@ -1,0 +1,331 @@
+Cook-0 ready!
+Cook-1 ready!
+Burger machine ready!
+Fries machine ready!
+Coke machine ready!
+Sundae machine ready!
+Table-0 ready!
+Table-1 ready!
+Table-2 ready!
+Table-3 ready!
+
+Welcome to Restaurant 643=(
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+Diner-0 arrived at time 20
+Diner-0 was seated at Table-0 at time 20
+Cook-1 was assigned order 0 at time 20
+20
+Cook-1 used Burger machine at time 21 for order 0
+21
+22
+23
+24
+25
+Cook-1 finished using Burger machine at time 26 for order 0
+Cook-1 used Fries machine at time 26 for order 0
+26
+27
+28
+Cook-1 finished using Fries machine at time 29 for order 0
+Cook-1 used Burger machine at time 29 for order 0
+29
+Diner-1 arrived at time 30
+Diner-1 was seated at Table-1 at time 30
+Cook-0 was assigned order 1 at time 30
+Cook-0 used Coke machine at time 30 for order 1
+30
+Diner-2 arrived at time 31
+Diner-2 was seated at Table-2 at time 31
+31
+Cook-0 finished using Coke machine at time 32 for order 1
+Cook-0 used Sundae machine at time 32 for order 1
+Diner-3 arrived at time 32
+Diner-3 was seated at Table-3 at time 32
+32
+Cook-0 finished using Sundae machine at time 33 for order 1
+Diner-4 arrived at time 33
+33
+Cook-1 finished using Burger machine at time 34 for order 0
+Cook-0 used Burger machine at time 34 for order 1
+Cook-1 DELIVERED order 0 at time 34
+Cook-1 was assigned order 2 at time 34
+Cook-1 used Fries machine at time 34 for order 2
+34
+35
+36
+Cook-1 finished using Fries machine at time 37 for order 2
+Cook-1 used Sundae machine at time 37 for order 2
+37
+Cook-1 finished using Sundae machine at time 38 for order 2
+38
+Cook-0 finished using Burger machine at time 39 for order 1
+Cook-0 used Burger machine at time 39 for order 1
+39
+40
+41
+42
+43
+Cook-0 finished using Burger machine at time 44 for order 1
+Cook-1 used Burger machine at time 44 for order 2
+44
+45
+46
+47
+48
+Cook-1 finished using Burger machine at time 49 for order 2
+Cook-1 used Burger machine at time 49 for order 2
+49
+50
+51
+52
+53
+Cook-1 finished using Burger machine at time 54 for order 2
+Cook-0 used Burger machine at time 54 for order 1
+Cook-1 DELIVERED order 2 at time 54
+Cook-1 was assigned order 3 at time 54
+Cook-1 used Fries machine at time 54 for order 3
+54
+55
+56
+Cook-1 finished using Fries machine at time 57 for order 3
+Cook-1 used Sundae machine at time 57 for order 3
+57
+Cook-1 finished using Sundae machine at time 58 for order 3
+58
+Cook-0 finished using Burger machine at time 59 for order 1
+Cook-1 used Burger machine at time 59 for order 3
+59
+Diner-5 arrived at time 60
+60
+61
+62
+63
+Cook-1 finished using Burger machine at time 64 for order 3
+Diner-0 FINISHED EATING at time 64
+Cook-0 used Burger machine at time 64 for order 1
+Diner-5 was seated at Table-0 at time 64
+64
+65
+66
+67
+68
+Cook-0 finished using Burger machine at time 69 for order 1
+Cook-1 used Burger machine at time 69 for order 3
+Cook-0 DELIVERED order 1 at time 69
+Cook-0 was assigned order 5 at time 69
+Cook-0 used Fries machine at time 69 for order 5
+69
+Diner-6 arrived at time 70
+70
+Diner-7 arrived at time 71
+71
+Diner-8 arrived at time 72
+Cook-0 finished using Fries machine at time 72 for order 5
+Cook-0 used Sundae machine at time 72 for order 5
+72
+Cook-0 finished using Sundae machine at time 73 for order 5
+Diner-9 arrived at time 73
+73
+Cook-1 finished using Burger machine at time 74 for order 3
+Cook-0 used Burger machine at time 74 for order 5
+Cook-1 DELIVERED order 3 at time 74
+74
+75
+76
+77
+78
+Cook-0 finished using Burger machine at time 79 for order 5
+Cook-0 used Burger machine at time 79 for order 5
+79
+80
+81
+82
+83
+Cook-0 finished using Burger machine at time 84 for order 5
+Cook-0 DELIVERED order 5 at time 84
+Diner-2 FINISHED EATING at time 84
+Diner-9 was seated at Table-2 at time 84
+Cook-0 was assigned order 9 at time 84
+Cook-0 used Burger machine at time 84 for order 9
+84
+85
+86
+87
+88
+Cook-0 finished using Burger machine at time 89 for order 9
+Cook-0 used Coke machine at time 89 for order 9
+89
+90
+Cook-0 finished using Coke machine at time 91 for order 9
+Cook-0 used Burger machine at time 91 for order 9
+91
+92
+93
+94
+95
+Cook-0 finished using Burger machine at time 96 for order 9
+Cook-0 DELIVERED order 9 at time 96
+96
+97
+98
+Diner-1 FINISHED EATING at time 99
+Diner-4 was seated at Table-1 at time 99
+Cook-0 was assigned order 4 at time 99
+Cook-0 used Burger machine at time 99 for order 4
+99
+100
+101
+102
+103
+Diner-3 FINISHED EATING at time 104
+Diner-8 was seated at Table-3 at time 104
+Cook-1 was assigned order 8 at time 104
+Cook-1 used Fries machine at time 104 for order 8
+Cook-0 finished using Burger machine at time 104 for order 4
+Cook-0 used Coke machine at time 104 for order 4
+104
+105
+Cook-0 finished using Coke machine at time 106 for order 4
+Cook-0 used Burger machine at time 106 for order 4
+106
+Cook-1 finished using Fries machine at time 107 for order 8
+Cook-1 used Sundae machine at time 107 for order 8
+107
+Cook-1 finished using Sundae machine at time 108 for order 8
+Cook-1 used Fries machine at time 108 for order 8
+108
+109
+110
+Cook-0 finished using Burger machine at time 111 for order 4
+Cook-1 finished using Fries machine at time 111 for order 8
+Cook-0 DELIVERED order 4 at time 111
+Cook-1 used Burger machine at time 111 for order 8
+111
+112
+113
+Diner-5 FINISHED EATING at time 114
+Diner-6 was seated at Table-0 at time 114
+Cook-0 was assigned order 6 at time 114
+Cook-0 used Coke machine at time 114 for order 6
+114
+115
+Cook-1 finished using Burger machine at time 116 for order 8
+Cook-1 used Burger machine at time 116 for order 8
+Cook-0 finished using Coke machine at time 116 for order 6
+Cook-0 used Sundae machine at time 116 for order 6
+116
+Cook-0 finished using Sundae machine at time 117 for order 6
+117
+118
+119
+120
+Cook-1 finished using Burger machine at time 121 for order 8
+Cook-0 used Burger machine at time 121 for order 6
+Cook-1 DELIVERED order 8 at time 121
+121
+122
+123
+124
+125
+Cook-0 finished using Burger machine at time 126 for order 6
+Diner-9 FINISHED EATING at time 126
+Cook-0 used Burger machine at time 126 for order 6
+Diner-7 was seated at Table-2 at time 126
+Cook-1 was assigned order 7 at time 126
+Cook-1 used Fries machine at time 126 for order 7
+126
+127
+128
+Cook-1 finished using Fries machine at time 129 for order 7
+Cook-1 used Sundae machine at time 129 for order 7
+129
+Cook-1 finished using Sundae machine at time 130 for order 7
+130
+Cook-0 finished using Burger machine at time 131 for order 6
+Cook-0 used Burger machine at time 131 for order 6
+131
+132
+133
+134
+135
+Cook-0 finished using Burger machine at time 136 for order 6
+Cook-1 used Burger machine at time 136 for order 7
+136
+137
+138
+139
+140
+Diner-4 FINISHED EATING at time 141
+Cook-1 finished using Burger machine at time 141 for order 7
+Cook-0 used Burger machine at time 141 for order 6
+141
+142
+143
+144
+145
+Cook-0 finished using Burger machine at time 146 for order 6
+Cook-1 used Burger machine at time 146 for order 7
+Cook-0 DELIVERED order 6 at time 146
+146
+147
+148
+149
+150
+Cook-1 finished using Burger machine at time 151 for order 7
+Diner-8 FINISHED EATING at time 151
+Cook-1 DELIVERED order 7 at time 151
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+Diner-6 FINISHED EATING at time 176
+176
+177
+178
+179
+180
+Diner-7 FINISHED EATING at time 181
+Last diner has left!
+
+Restaurant 643=) is now closed...
